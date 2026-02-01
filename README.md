@@ -32,6 +32,8 @@ Aplicativo mobile para interpretação de sonhos, diário pessoal, tiragens mís
 
 > Observação: a geração do `.aab` precisa ser feita localmente (Android Studio/Flutter).
 
+Para o passo a passo completo, veja `docs/PLAYSTORE_STEPS.md`.
+
 ## Estrutura prevista do repositório
 
 - `docs/APP_DATA.md`: dados completos do aplicativo, conteúdo e status de entrega.
