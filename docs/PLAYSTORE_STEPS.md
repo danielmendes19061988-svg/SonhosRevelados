@@ -52,6 +52,18 @@ No projeto Android (arquivo `android/app/build.gradle`):
 
 > Se sua conta for nova, o Google pode exigir **teste fechado** com usuários antes da produção.
 
+## 6) Onde clicar no Play Console (mapa rápido)
+
+Depois de criar o app no Play Console, use este caminho para subir o arquivo:
+
+1. No menu lateral, abra **Versões do app**.
+2. Escolha **Teste fechado** (ou **Produção**).
+3. Clique em **Criar nova versão**.
+4. Na seção **App bundle**, clique em **Fazer upload** e selecione o `.aab`.
+5. Salve e avance até **Enviar para revisão**.
+
+> Se não aparecer **Produção**, use **Teste fechado** primeiro.
+
 ## Dicas importantes
 
 - Não perca sua **keystore**, pois ela é necessária para futuras atualizações.
