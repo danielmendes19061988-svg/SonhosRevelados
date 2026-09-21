@@ -142,8 +142,8 @@ class _DictionaryPage extends StatelessWidget {
 class _AboutPage extends StatelessWidget {
   const _AboutPage();
   @override
-  Widget build(BuildContext context) => const ListView(
-    padding: EdgeInsets.all(24),
+  Widget build(BuildContext context) => ListView(
+    padding: const EdgeInsets.all(24),
     children: [
       Text('Sobre', style: TextStyle(fontSize: 28, fontWeight: FontWeight.bold)),
       SizedBox(height: 16),
